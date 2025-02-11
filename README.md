@@ -52,4 +52,4 @@ It might not be perfect, but it’s a game that actually works on any VR headset
 
 - Link - https://vimeo.com/1055599727?share=copy
 
-(https://player.vimeo.com/video/1055599727?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
+
