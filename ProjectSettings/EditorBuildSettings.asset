@@ -6,7 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SpaceScraper.unity
+    path: Assets/Scenes/1 Start Scene.unity
+    guid: bd4ccdabc9e01d94891d84d8fa48128e
+  - enabled: 1
+    path: Assets/Scenes/2 SpaceScraper.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7a2e35054019ff141862c4370809597c,
