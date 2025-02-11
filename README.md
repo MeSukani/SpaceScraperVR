@@ -14,7 +14,7 @@ You're stuck in a void of space (yep, bad luck). You're low on food, surrounded 
 
 Building this game taught me a bunch of VR development basics, like:  
 - Custom hand grabbing mechanics 🖐️  
-- Object snapping (so satisfying) ✨  
+- Object snapping ✨  
 - Interactive button levers and wheel mechanics 🔄  
 - Smooth continuous movement 🚶‍♂️  
 - Teleportation and climbing mechanics 🧗‍♂️  
