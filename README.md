@@ -1,13 +1,13 @@
 # 🚀 VR Space Scraper
 
-Hey there!  
 Welcome to **VR Space Scraper**, a quirky, beginner-friendly VR game I built while learning the basics of VR development. This was my first dive into creating something in Unity for VR, and it turned out to be both a space adventure and a massive learning journey. 🌌
 
 ---
 
 ## 🌟 About the Game  
+
  
-You're stuck in a void of space (yep, bad luck). You're low on food, surrounded by random space junk, and trying to keep yourself alive long enough to figure a way out. From throwing scrap into a black hole to analyzing anomalies for energy to get back to earth.
+ You're stuck in a void of space (yep, bad luck). You're low on food, surrounded by random space junk, and trying to keep yourself alive long enough to figure a way out. From throwing scrap into a black hole to analyzing anomalies for energy to get back to earth.
 ---
 
 ## 🛠️ What I Learned  
